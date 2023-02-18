@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+*,
+body,
+html {
+    /* letter-spacing: 0px; */
+    font-family: 'Tajawal', sans-serif;
+}
+
+.aside .aside-toolbar .aside-search {
+    border-bottom: 0 !important;
+}
+
+.redColor {
+    color: #00b894 !important;
+}
+
+.card .card-body {
+    text-align: center !important;
+}
+
+tr ,td ,th  {
+    text-align: center !important;
+}
+
+
+.select2-dropdown {
+   position: relative;
+}
